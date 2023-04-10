@@ -1,0 +1,37 @@
+/* Add Custom css here */
+.text-center {
+  text-align: center;
+}
+
+/* about us page styles */
+.about-par {
+  background-attachment: fixed;
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  margin-top: 10%;
+  margin-bottom: 0%;
+  padding: 12.7% 0% 12.7% 0%;
+}
+.par_sub_title {
+  font-size: 25px;
+  color: #fff;
+}
+.par_title {
+  color: #fff;
+  font-size: 110px;
+}
+/* header banner */
+.product-archive-hero-section .entry-hero-container-inner,
+.product-hero-section .entry-hero-container-inner,
+.post-archive-hero-section .entry-hero-container-inner,
+.page-hero-section .entry-hero-container-inner{
+    background-position: initial;
+    filter: blur(2px);
+  -webkit-filter: blur(2px);
+}
+
+/* Mobile size media width */
+@media screen and (max-width: 576px) {
+    .par_title{
+        font-size: 45px;
+    }
+}
