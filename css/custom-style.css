@@ -20,14 +20,14 @@
   font-size: 110px;
 }
 /* header banner */
-.product-archive-hero-section .entry-hero-container-inner,
+/* .product-archive-hero-section .entry-hero-container-inner,
 .product-hero-section .entry-hero-container-inner,
 .post-archive-hero-section .entry-hero-container-inner,
 .page-hero-section .entry-hero-container-inner{
     background-position: initial;
     filter: blur(2px);
   -webkit-filter: blur(2px);
-}
+} */
 
 /* Mobile size media width */
 @media screen and (max-width: 576px) {
