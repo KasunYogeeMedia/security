@@ -616,6 +616,10 @@ body.woocommerce div.product div.images .flex-control-thumbs li img {
 	left: auto;
 }
 
+h2.elementor-heading-title.elementor-size-default {
+    width: 641px;
+}
+
 @media only screen and (max-width: 1200px){
 	body .main-navigation .primary-menu-container > ul > li.menu-item > a{
 		padding-left: calc(1.5em / 2);
